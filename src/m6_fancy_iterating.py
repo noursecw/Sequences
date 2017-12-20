@@ -413,7 +413,7 @@ def print_items_at_odd_indices(sequence):
 
 # ----------------------------------------------------------------------
 # Iterating through PART of a sequence:
-#   -- in this sample problem, the second half.
+#   -- in this sample problem, the second half
 # ----------------------------------------------------------------------
 def print_items_in_second_half(sequence):
     """
