@@ -337,6 +337,6 @@ def draw_circles(window, points, radius, color):
     window.render()
 
 # ----------------------------------------------------------------------
-# Calls  main  to start the ball rolling.
+# Calls  main  to start the ball rolling
 # ----------------------------------------------------------------------
 main()
